@@ -1,2 +1,2 @@
 # basic-flight-reservation-system
-Test classes will be appliend in the next days.
+Test classes will be fixed in the next days.
